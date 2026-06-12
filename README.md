@@ -18,16 +18,17 @@ Whether it's Stripe 3DS, Apple Pay, Google Pay, Firebase Firestore, or Redux Too
 
 ### 🛠 Technologies
 
-[![React Native](https://img.icons8.com/color/480/000000/react-native.png)](https://reactnative.dev)
-[![TypeScript](https://img.icons8.com/color/480/000000/typescript.png)](https://www.typescriptlang.org)
-[![JavaScript](https://img.icons8.com/color/480/000000/javascript--v1.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Firebase](https://img.icons8.com/color/480/000000/firebase.png)](https://firebase.google.com)
-[![Redux](https://img.icons8.com/color/480/000000/redux.png)](https://redux.js.org)
-[![Git](https://img.icons8.com/color/480/000000/git.png)](https://git-scm.com)
-[![Figma](https://img.icons8.com/color/480/000000/figma--v1.png)](https://figma.com)
-[![Postman](https://img.icons8.com/dusk/480/000000/postman-api.png)](https://postman.com)
-[![C++](https://img.icons8.com/color/480/000000/c-plus-plus-logo.png)](https://isocpp.org)
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 ---
 
-[![GitHub Stats](https://komarev.com/ghpvc/?username=Ariba07)](https://github.com/Ariba07)
+![Profile Views](https://komarev.com/ghpvc/?username=Ariba07&color=blueviolet&style=flat-square)
