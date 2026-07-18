@@ -1,11 +1,11 @@
 # Hi 👋, I'm Ariba Dastgir
-
-React Native developer with 2+ years of production experience building cross-platform iOS and Android applications. I've shipped 8+ apps to the App Store and Google Play — specializing in secure payment integration, real-time Firebase services, and clean, scalable TypeScript architecture.
-
+ 
+React Native developer with **3 years of production experience** building cross-platform iOS and Android applications — specializing in secure payment integration (Stripe 3DS, Apple Pay, Google Pay), real-time Firebase services, and clean, scalable TypeScript architecture.
+ 
 My mission? To build mobile experiences that feel fast, look great, and just work.
-
-Whether it's Stripe 3DS, Apple Pay, Google Pay, Firebase Firestore, or Redux Toolkit — I thrive on turning complex requirements into polished, client-ready apps.
-
+ 
+Whether it's Stripe 3DS, Apple Pay, Google Pay, Firebase Firestore, or Redux Toolkit — I thrive on turning complex requirements into polished, client-ready apps, from Figma handoff all the way through App Store and Google Play release.
+ 
 ---
 
 📱 One of my live apps: **[Rafters Food Services](https://play.google.com/store/search?q=rafters+food+services)** — 1,000+ downloads · 3.8★ on Google Play
