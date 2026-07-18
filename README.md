@@ -8,7 +8,7 @@ Whether it's Stripe 3DS, Apple Pay, Google Pay, Firebase Firestore, or Redux Too
  
 ---
 
-📱 One of my live apps: **[Rafters Food Services](https://play.google.com/store/search?q=rafters+food+services)** — 1,000+ downloads · 3.8★ on Google Play
+📱 **One of my live apps:** [Rafters Food Services](https://play.google.com/store/apps/details?id=com.rafters) — 1,000+ downloads, live on [Google Play](https://play.google.com/store/apps/details?id=com.rafters) and the [App Store](https:
 
 - 📧 Email me at [aribadastgir.developer@gmail.com](mailto:aribadastgir.developer@gmail.com)
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/ariba-dastgir)
