@@ -7,8 +7,8 @@ My mission? To build mobile experiences that feel fast, look great, and just wor
 Whether it's Stripe 3DS, Apple Pay, Google Pay, Firebase Firestore, or Redux Toolkit — I thrive on turning complex requirements into polished, client-ready apps, from Figma handoff all the way through App Store and Google Play release.
  
 ---
-
-📱 **One of my live apps:** [Rafters Food Services](https://play.google.com/store/apps/details?id=com.rafters) — 1,000+ downloads, live on [Google Play](https://play.google.com/store/apps/details?id=com.rafters) and the [App Store](https:
+ 
+📱 **One of my live apps:** [Rafters Food Services](https://play.google.com/store/apps/details?id=com.rafters) — 1,000+ downloads, live on [Google Play](https://play.google.com/store/apps/details?id=com.rafters) and the [App Store](https://apps.apple.com/app/rafters-food-services/id6742403042)
 
 - 📧 Email me at [aribadastgir.developer@gmail.com](mailto:aribadastgir.developer@gmail.com)
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/ariba-dastgir)
